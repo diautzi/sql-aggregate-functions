@@ -6,7 +6,6 @@ end
 
 def lowest_student_gpa
     "SELECT MAX(gpa) FROM students;"
-
 end
 
 def average_student_gpa
